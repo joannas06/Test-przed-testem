@@ -1,0 +1,39 @@
+<?html version="1.0" encoding="UTF-8"?>
+<BiletyKMK>
+  <Bilet>
+    <Rodzaj>20-minutowy</Rodzaj>
+    <Strefa>I-II-III</Strefa>
+    <CenaUlg>2PLN</CenaUlg>
+    <CenaNorm>4PLN</CenaNorm>
+  </Bilet>
+  <Bilet>
+    <Rodzaj>60-minutowy</Rodzaj>
+    <Strefa>I-II-III</Strefa>
+    <CenaUlg>3PLN</CenaUlg>
+    <CenaNorm>6PLN</CenaNorm>
+  </Bilet>
+  <Bilet>
+    <Rodzaj>24-godzinny</Rodzaj>
+    <Strefa>I</Strefa>
+    <CenaUlg>8.50PLN</CenaUlg>
+    <CenaNorm>17PLN</CenaNorm>
+  </Bilet>
+  <Bilet>
+    <Rodzaj>24-godzinny</Rodzaj>
+    <Strefa>I-II-III</Strefa>
+    <CenaUlg>11PLN</CenaUlg>
+    <CenaNorm>22PLN</CenaNorm>
+  </Bilet>
+  <Bilet>
+    <Rodzaj>72-godzinny</Rodzaj>
+    <Strefa>I-II-II</Strefa>
+    <CenaUlg>25PLN</CenaUlg>
+    <CenaNorm>50PLN</CenaNorm>
+  </Bilet>
+  <Bilet>
+    <Rodzaj>7-dniowy</Rodzaj>
+    <Strefa>I</Strefa>
+    <CenaUlg>28PLN</CenaUlg>
+    <CenaNorm>56PLN</CenaNorm>
+  </Bilet>
+</BiletyKMK>
