@@ -1,0 +1,10 @@
+{
+    "nazwaLiniiTramwajowej": "Górka Narodowa P+R",
+    "liczbaTramwajow": 3,
+    "numeryLinii": ["50", "18"],
+    "liniaZastępcza": ["75"],
+    "czyPotrzebaBilet": true,
+    "noweZmiany": null,
+    "długosćTrasy": 5.4,
+    "popularnePrzystanki": ["Pachońskiego", "Pawia"]
+}
