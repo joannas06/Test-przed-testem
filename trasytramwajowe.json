@@ -1,0 +1,44 @@
+[
+{
+    "liniaTramwajowa": "18",
+    "nazwaTrasy": "Czerwone Maki P+R - Górka Narodowa P+R",
+    "liczbaPrzystankow": 26,
+    "przykladowePrzystanki": ["Ruczaj", "Poczta Główna", "Nowy Kleparz", "Pachońskiego P+R"],
+    "potrzebnyBilet": true
+},
+{
+    "liniaTramwajowa": "5",
+    "nazwaTrasy": "Krowodrza Górka P+R",
+    "liczbaPrzystankow": 26,
+    "przykladowePrzystanki": ["Teatr Ludowy", "Czyżyny", "Dworzec Główny Zachód", "Politechnika"],
+    "potrzebnyBilet": true
+},
+{
+    "liniaTramwajowa": "3",
+    "nazwaTrasy": "Nowy Bieżanów P+R",
+    "liczbaPrzystankow": 41,
+    "przykladowePrzystanki": ["Bratysławska", "Poczta Główna", "Plac Bohaterów Getta"],
+    "potrzebnyBilet": true
+},
+{
+    "liniaTramwajowa": "20",
+    "nazwaTrasy": "Bronowice",
+    "liczbaPrzystankow": 45,
+    "przykladowePrzystanki": ["Zabłocie", "Teatr Bagatela", "Plac Inwalidów"],
+    "potrzebnyBilet": true
+},
+{
+    "liniaTramwajowa": "14",
+    "nazwaTrasy": "Dworzec Towarowy",
+    "liczbaPrzystanków": 26,
+    "przykladowePrzystanki": ["Bieńczycka", "Dąbie", "Fabryczna"],
+    "potrzebnyBilet": true
+},
+{
+    "liniaTramwajowa": "9",
+    "nazwaTrasy": "Rondo Hipokratesa",
+    "liczbaPrzystankow": 19,
+    "przykladowePrzystanki": ["Prokocim", "Kabel", "Klimeckiego"],
+    "potrzebnyBilet": true
+}
+]
