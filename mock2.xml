@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modesoftransport>
+<bus>
+            <Maxpassengers unit="people">56</Maxpassengers>
+            <Stops>12</Stops>
+            <Age amt="years">12</Age>
+            <Service>yearly</Service>
+</bus>
+
+<train>
+            <Maxpassengers unit="people">140</Maxpassengers>
+            <Stops>8</Stops>
+            <Age amt="years">20</Age>
+            <Service>yearly</Service>
+</train>
+
+<tram>
+            <Maxpassengers unit="people">45</Maxpassengers>
+            <Stops>21</Stops>
+            <Age amt="years">8</Age>
+            <Service>quarterly</Service>
+</tram>
+
+<metro>
+            <Maxpassengers unit="people">100</Maxpassengers>
+            <Stops>10</Stops>
+            <Age amt="years">10</Age>
+            <Service>monthly</Service>
+</metro>
+
+<taxi>
+            <Maxpassengers unit="people">4</Maxpassengers>
+            <Stops>1</Stops>
+            <Age amt="years">11</Age>
+            <Service>yearly</Service>
+</taxi>
+<bike>
+            <Maxpassengers unit="people">1</Maxpassengers>
+            <Stops>1</Stops>
+            <Age amt="years">3</Age>
+            <Service>yearly</Service>
+
+</bike>
+</modesoftransport>
