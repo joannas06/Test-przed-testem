@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8">
+<BiletyKMK>
+    <Bilet>
+        <Duration Type="Time-based" Category="Short">20-minutowy</Duration>
+        <Zone Scope="City" Number="I">I</Zone>
+        <NormalPrice Currency="PLN" Status="Current">4.00</NormalPrice>
+        <DiscountedPrice Currency="PLN" Status="50%">2.00</DiscountedPrice>
+    </Bilet>
+    <Bilet>
+        <Duration Type="Time-based" Category="Short">60-minutowy</Duration>
+        <Zone Scope="Aglomeration" Number="I+II+III">I+II+III</Zone>
+        <NormalPrice Currency="PLN" Status="Current">6.00</NormalPrice>
+        <DiscountedPrice Currency="PLN" Status="50%">3.00</DiscountedPrice>
+    </Bilet>
+    <Bilet>
+        <Duration Type="Time-based" Category="Short">24-godzinny</Duration>
+        <Zone Scope="City" Number="I">I</Zone>
+        <NormalPrice Currency="PLN" Status="Current">15.00</NormalPrice>
+        <DiscountedPrice Currency="PLN" Status="50%">7.50</DiscountedPrice>
+    </Bilet>
+    <Bilet>
+        <Duration Type="Time-based" Category="Medium">72-godzinny</Duration>
+        <Zone Scope="Aglomeration" Number="I+II+III">I+II+III</Zone>
+        <NormalPrice Currency="PLN" Status="Current">22.00</NormalPrice>
+        <DiscountedPrice Currency="PLN" Status="50%">11.00</DiscountedPrice>
+    </Bilet>
+    <Bilet>
+        <Duration Type="Time-based" Category="Long">7-dniowy</Duration>
+        <Zone Scope="Aglomeration" Number="I+II+III">I+II+III</Zone>
+        <NormalPrice Currency="PLN" Status="Current">25.00</NormalPrice>
+        <DiscountedPrice Currency="PLN" Status="50%">50.00</DiscountedPrice>
+    </Bilet>
+    <Bilet>
+        <Duration Type="Time=based" Category="Medium">48-godzinny</Duration>
+        <Zone Scope="Aglomeration" Number="I+II+III">I+II+III</Zone>
+        <NormalPrice Currency="PLN" Status="Current">22.00</NormalPrice>
+        <DiscountedPrice Currency="PLN" Status="50%">11.00</NormalPrice>
+    </Bilet>
+</BiletyKMK>
